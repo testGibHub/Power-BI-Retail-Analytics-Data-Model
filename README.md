@@ -210,11 +210,11 @@ This project demonstrates practical experience in:
 - Translating business data into reporting structures
 
 ## 📸 Data Model
-images/data_model.png
+![Power BI Data Model](images/data_model.png)
 
 
 ## 📊 Dashboard Preview
-images/dashboard.png
+![Power BI Dashboard](images/dashboard.png)
 
 ## 🚀 Future Improvements
 
